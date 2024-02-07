@@ -1,0 +1,22 @@
+body
+{
+ background-color:rgb(255, 200, 0);
+}
+
+score
+{
+ font-size:180px;
+ margin-left:100px;
+}
+
+timer
+{
+ font-size:180px;
+ float:right;
+ margin-right:100px;
+}
+
+to_be_drawn
+{
+ font-color:rgb(0, 0, 0);
+}
